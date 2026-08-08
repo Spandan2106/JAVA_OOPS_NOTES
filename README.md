@@ -25,6 +25,8 @@ The main goal of this project is to provide clear and concise examples of common
     *   Lets you produce families of related objects (e.g., products from the same brand) without specifying their concrete classes.
 *   **Builder Pattern:** `Builder_Application.java`
     *   Lets you construct complex objects step by step, allowing for different representations of an object using the same construction process.
+*   **MVC Pattern:** `MVCPattern.java`
+    *   Simple design of MVC.
 ## How to Run
 
 You can compile and run each example using the Java Development Kit (JDK).
@@ -46,6 +48,9 @@ You can compile and run each example using the Java Development Kit (JDK).
 
     # For Builder Pattern
     javac Builder_Application.java
+
+    # For MVC Pattern
+    javac MVCPattern.java
     ```
 
 2.  **Run the compiled class:**
@@ -56,6 +61,7 @@ You can compile and run each example using the Java Development Kit (JDK).
     java ExampleApplication_Stategy
     java Abstract_Application
     java Builder_Application
+    java MVCPattern
     ```
 
 ## Contributing
