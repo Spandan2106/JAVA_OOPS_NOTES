@@ -1,7 +1,7 @@
 //Java Program to create Swing application in Java    
 import javax.swing.*;    
-public class SwingApp {    
-SwingApp(){    
+public class SwingApp1 {    
+SwingApp1(){    
 //Creating instance of JFrame class    
 JFrame f = new JFrame();    
     
@@ -48,6 +48,6 @@ f.setVisible(true);
     
 //Creating the main method to create object of the class    
 public static void main(String[] args) {    
-SwingApp s = new SwingApp();    
+SwingApp1 s = new SwingApp1();    
 }    
 }    
