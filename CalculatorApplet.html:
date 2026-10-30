@@ -1,0 +1,8 @@
+
+<html>
+<body>
+    <applet code="CalculatorApplet.class"
+            width="700" height="400">
+    </applet>
+</body>
+</html>
