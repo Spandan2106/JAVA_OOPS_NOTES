@@ -7,6 +7,7 @@
 A structured collection of Java notes, programming examples, OOP implementations, design patterns, GUI applications, and college practical programs.
 
 <p>
+
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk" alt="Java" />
   <img src="https://img.shields.io/badge/JDK-8%2B-red?style=for-the-badge&logo=openjdk" alt="JDK 8+" />
   <img src="https://img.shields.io/badge/GUI-Swing%20%26%20AWT-blue?style=for-the-badge" alt="Swing and AWT" />
