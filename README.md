@@ -1,5 +1,6 @@
 # ☕ Java OOP Notes & Practicals
 
+
 <div align="center">
 
 ### Core Java • Object-Oriented Programming • Design Patterns • Practical Lab Programs
