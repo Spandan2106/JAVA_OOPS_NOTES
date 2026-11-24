@@ -2,7 +2,6 @@
 import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
-
 public class CalculatorApplet extends Applet implements ActionListener {
     TextField t1, t2, result;
     Button b1, b2, b3, b4;
