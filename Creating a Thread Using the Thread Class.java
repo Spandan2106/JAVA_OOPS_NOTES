@@ -7,7 +7,6 @@ class Thread1 extends Thread {
         }
     }
 }
-
 class Thread2 extends Thread {
     public void run() {
         for (int i = 1; i <= 5; i++) {
