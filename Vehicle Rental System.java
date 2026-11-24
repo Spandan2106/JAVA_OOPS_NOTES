@@ -13,7 +13,6 @@ class Car extends Vehicle {
     Car(String number, int days) {
         super(number, days);
     }
-
     void calculateRent() {
         System.out.println("Car Number: " + number);
         System.out.println("Total Rent: Rs. " + (days * 1500));
