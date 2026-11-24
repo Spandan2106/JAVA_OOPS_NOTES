@@ -3,7 +3,6 @@ import java.util.Scanner;
 abstract class Vehicle {
     String number;
     int days;
-
     Vehicle(String number, int days) {
         this.number = number;
         this.days = days;
