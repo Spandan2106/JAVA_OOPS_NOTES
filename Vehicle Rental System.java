@@ -43,7 +43,6 @@ public class Compute2 {
         System.out.print("Enter choice: ");
         int choice = sc.nextInt();
         sc.nextLine();
-
         System.out.print("Enter vehicle number: ");
         String number = sc.nextLine();
         System.out.print("Enter rental days: ");
