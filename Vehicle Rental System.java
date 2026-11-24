@@ -1,6 +1,5 @@
 
 import java.util.Scanner;
-
 abstract class Vehicle {
     String number;
     int days;
