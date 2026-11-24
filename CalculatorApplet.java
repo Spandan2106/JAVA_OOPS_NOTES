@@ -9,7 +9,6 @@ public class CalculatorApplet extends Applet implements ActionListener {
         setLayout(new GridLayout(4, 1, 5, 10));
         setBackground(Color.LIGHT_GRAY);
         Font f = new Font("Arial", Font.BOLD, 20);
-
         Panel p1 = new Panel();
         p1.setBackground(Color.LIGHT_GRAY);
 
