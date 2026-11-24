@@ -46,7 +46,6 @@ public class Compute2 {
 
         System.out.print("Enter vehicle number: ");
         String number = sc.nextLine();
-
         System.out.print("Enter rental days: ");
         int days = sc.nextInt();
         if (days <= 0) {
