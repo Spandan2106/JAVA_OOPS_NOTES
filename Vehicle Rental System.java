@@ -9,7 +9,6 @@ abstract class Vehicle {
     }
     abstract void calculateRent();
 }
-
 class Car extends Vehicle {
     Car(String number, int days) {
         super(number, days);
