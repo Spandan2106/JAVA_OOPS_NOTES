@@ -49,7 +49,6 @@ public class Compute2 {
 
         System.out.print("Enter rental days: ");
         int days = sc.nextInt();
-
         if (days <= 0) {
             System.out.println("Invalid rental days");
         } else {
