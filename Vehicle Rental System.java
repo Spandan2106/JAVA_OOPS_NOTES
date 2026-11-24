@@ -7,7 +7,6 @@ abstract class Vehicle {
         this.number = number;
         this.days = days;
     }
-
     abstract void calculateRent();
 }
 
