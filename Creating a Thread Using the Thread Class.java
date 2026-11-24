@@ -21,7 +21,6 @@ public class Compute1 {
         Thread2 t2 = new Thread2();
         t1.start();
         t2.start();
-
         sc.close();
     }
 }
