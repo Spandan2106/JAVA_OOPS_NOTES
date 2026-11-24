@@ -54,7 +54,6 @@ public class Compute2 {
             System.out.println("Invalid rental days");
         } else {
             Vehicle v;
-
             if (choice == 1)
                 v = new Car(number, days);
             else if (choice == 2)
