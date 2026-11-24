@@ -18,7 +18,6 @@ class Car extends Vehicle {
         System.out.println("Total Rent: Rs. " + (days * 1500));
     }
 }
-
 class Bike extends Vehicle {
     Bike(String number, int days) {
         super(number, days);
