@@ -27,7 +27,6 @@ class Bike extends Vehicle {
         System.out.println("Total Rent: Rs. " + (days * 500));
     }
 }
-
 public class Compute2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
