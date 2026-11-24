@@ -64,7 +64,6 @@ public class Compute2 {
                 sc.close();
                 return;
             }
-
             v.calculateRent();
         }
         sc.close();
