@@ -37,7 +37,6 @@ class Bike extends Vehicle {
 public class Compute2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
         System.out.println("1. Car");
         System.out.println("2. Bike");
         System.out.print("Enter choice: ");
